@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro&display=swap');
+
+body{
+    font-family: 'Readex Pro', sans-serif;
+    background-color: beige;
+}
+
+img{
+    height: 250px;
+    
+}
+
+p{
+    color: blue;
+}
+
+h1{
+    font-size: 50px;
+    transition: 1s all;
+    visibility: visible;
+}
+
+
+
+div{
+   border: 20px double green;
+   max-width: 400px;
+   transition: 1s all;
+}
+
+div:hover{
+    border: 20px double rgb(128, 0, 0);
+    max-width: 2000px;
+
+}
